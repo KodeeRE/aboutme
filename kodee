@@ -3,8 +3,8 @@
 <body>
 	<div style="background-color: rgba(255, 255, 255, 0.8); padding: 20px;">
 		<h1 style="text-align:center;">Contact Information</h1>
-		<p style="text-align:center; font-size: 60px;">Have any questions?</p>
-		<p style="text-align:center; font-size: 60px;">Feel free to reach out to me with anything listed below and I will get back to you as soon as possible!</p>
+		<p style="text-align:center; font-size: 30px;">Have any questions?</p>
+		<p style="text-align:center; font-size: 30px;">Feel free to reach out to me with anything listed below and I will get back to you as soon as possible!</p>
 		<p>&nbsp;</p>
 		<p>Reach me directly:</p>
 		<p style="font-size: 26px;">Phone number: 919-559-1252</p>
@@ -15,7 +15,7 @@
 		<p>&nbsp;</p>
 		<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKCSlWbmZpCsVQFqLEzBpPeX0EDfIN9TQKjQ&usqp=CAU"></p>
 		<p>&nbsp;</p>
-		<p style="text-align:center; font-size: 20px;">Thank you for viewing my website!</p>
+		<p style="text-align:center; font-size: 23px;">Thank you for viewing my website!</p>
 		<ul style="margin: 0pt; padding-left: 0pt;">
 			<li style="margin-left: 27.9pt; margin-bottom: 8pt; line-height: 108%; padding-left: 8.1pt; font-family: serif; font-size: 16pt;"><span style="font-family: Calibri;">Kodee Ethridge</span></li>
 		</ul>
