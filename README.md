@@ -1,16 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Contact Information</title>
-	<style>
-		body {
-			background-image: url("https://myfiles.space/user_files/158453_f21fbf66f9dc7127/1683252630_contact-info/1683252630_contact-info-1.jpeg");
-			background-repeat: no-repeat;
-			background-size: cover;
-			background-position: center center;
-		}
-	</style>
-</head>
 <body>
 	<div style="background-color: rgba(255, 255, 255, 0.8); padding: 20px;">
 		<h1 style="text-align:center;">Contact Information</h1>
@@ -22,7 +11,9 @@
 		<p style="font-size: 16px;"><a href="https://www.linkedin.com/in/kodee-ethridge-9a6b38236/" style="text-decoration:none; color: #0563c1;">LinkedIn</a></p>
 		<p style="font-size: 16px;">Email: <a href="mailto:Kethridge@my.waketech.edu" style="text-decoration:none; color: #0563c1;">Kethridge@my.waketech.edu</a></p>
 		<p>&nbsp;</p>
-		<p style="text-align:center;"><img src="https://myfiles.space/user_files/158453_f21fbf66f9dc7127/1683252630_contact-info/1683252630_contact-info-2.png" alt="" style="float:right; margin-left:10px; width:399px; height:160px;"></p>
+		<p style="text-align:center;"><img src="https://myfiles.space/user_files/158453_f21fbf66f9dc7127/1683252630_contact-info/1683252630_contact-info-2.png" alt="" style="width:399px; height:160px;"></p>
+		<p>&nbsp;</p>
+		<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKCSlWbmZpCsVQFqLEzBpPeX0EDfIN9TQKjQ&usqp=CAU"></p>
 		<p>&nbsp;</p>
 		<p style="text-align:center; font-size: 20px;">Thank you for viewing my website!</p>
 		<ul style="margin: 0pt; padding-left: 0pt;">
