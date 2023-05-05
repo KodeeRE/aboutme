@@ -3,13 +3,13 @@
 <body>
 	<div style="background-color: rgba(255, 255, 255, 0.8); padding: 20px;">
 		<h1 style="text-align:center;">Contact Information</h1>
-		<p style="text-align:center; font-size: 20px;">Have any questions?</p>
-		<p style="text-align:center; font-size: 20px;">Feel free to reach out to me with anything listed below and I will get back to you as soon as possible!</p>
+		<p style="text-align:center; font-size: 60px;">Have any questions?</p>
+		<p style="text-align:center; font-size: 60px;">Feel free to reach out to me with anything listed below and I will get back to you as soon as possible!</p>
 		<p>&nbsp;</p>
 		<p>Reach me directly:</p>
-		<p style="font-size: 16px;">Phone number: 919-559-1252</p>
-		<p style="font-size: 16px;"><a href="https://www.linkedin.com/in/kodee-ethridge-9a6b38236/" style="text-decoration:none; color: #0563c1;">LinkedIn</a></p>
-		<p style="font-size: 16px;">Email: <a href="mailto:Kethridge@my.waketech.edu" style="text-decoration:none; color: #0563c1;">Kethridge@my.waketech.edu</a></p>
+		<p style="font-size: 26px;">Phone number: 919-559-1252</p>
+		<p style="font-size: 26px;"><a href="https://www.linkedin.com/in/kodee-ethridge-9a6b38236/" style="text-decoration:none; color: #0563c1;">LinkedIn</a></p>
+		<p style="font-size: 26px;">Email: <a href="mailto:Kethridge@my.waketech.edu" style="text-decoration:none; color: #0563c1;">Kethridge@my.waketech.edu</a></p>
 		<p>&nbsp;</p>
 		<textarea name="question" rows="5" cols="50" placeholder="Type your questions here" style="border: 1px solid black;"></textarea>
 		<p>&nbsp;</p>
