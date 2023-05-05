@@ -3,19 +3,9 @@
 <head>
 	<title>Contact Information</title>
 	<style>
-	body {
-		background-image: url("https://myfiles.space/user_files/158453_f21fbf66f9dc7127/1683252630_contact-info/1683252630_contact-info-1.jpeg");
-		background-repeat: no-repeat;
-		background-size: cover;
-		background-position: center center;
-	}
-</style>		body {
+		body {
 			background-image: url("https://myfiles.space/user_files/158453_f21fbf66f9dc7127/1683252630_contact-info/1683252630_contact-info-1.jpeg");
 			background-repeat: no-repeat;
-			background-size: cover;
-			background-position: center center;
-		}
-	</style>round-repeat: no-repeat;
 			background-size: cover;
 			background-position: center center;
 		}
